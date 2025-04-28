@@ -1,0 +1,13 @@
+E:\Auto_Practice\Automation_Project\OpenCartV001\src\test\java\OpenCartV\OpenCartV001\AppTest.java
+E:\Auto_Practice\Automation_Project\OpenCartV001\src\test\java\pageObjects\AccountRegistrationPage.java
+E:\Auto_Practice\Automation_Project\OpenCartV001\src\test\java\pageObjects\BasePage.java
+E:\Auto_Practice\Automation_Project\OpenCartV001\src\test\java\pageObjects\HomePage.java
+E:\Auto_Practice\Automation_Project\OpenCartV001\src\test\java\pageObjects\LoginPage.java
+E:\Auto_Practice\Automation_Project\OpenCartV001\src\test\java\pageObjects\MyAccountPage.java
+E:\Auto_Practice\Automation_Project\OpenCartV001\src\test\java\testBase\BaseClass.java
+E:\Auto_Practice\Automation_Project\OpenCartV001\src\test\java\testCases\TC001_AccountRegistrationTest.java
+E:\Auto_Practice\Automation_Project\OpenCartV001\src\test\java\testCases\TC002_LoginTest.java
+E:\Auto_Practice\Automation_Project\OpenCartV001\src\test\java\testCases\TC003_LoginDDT.java
+E:\Auto_Practice\Automation_Project\OpenCartV001\src\test\java\utilities\DataProviders.java
+E:\Auto_Practice\Automation_Project\OpenCartV001\src\test\java\utilities\ExcelUtilities.java
+E:\Auto_Practice\Automation_Project\OpenCartV001\src\test\java\utilities\ExtentReportManager.java
