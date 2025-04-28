@@ -8,6 +8,7 @@ E:\Auto_Practice\Automation_Project\OpenCartV001\src\test\java\testBase\BaseClas
 E:\Auto_Practice\Automation_Project\OpenCartV001\src\test\java\testCases\TC001_AccountRegistrationTest.java
 E:\Auto_Practice\Automation_Project\OpenCartV001\src\test\java\testCases\TC002_LoginTest.java
 E:\Auto_Practice\Automation_Project\OpenCartV001\src\test\java\testCases\TC003_LoginDDT.java
+E:\Auto_Practice\Automation_Project\OpenCartV001\src\test\java\testCases\TC_004_Search.java
 E:\Auto_Practice\Automation_Project\OpenCartV001\src\test\java\utilities\DataProviders.java
 E:\Auto_Practice\Automation_Project\OpenCartV001\src\test\java\utilities\ExcelUtilities.java
 E:\Auto_Practice\Automation_Project\OpenCartV001\src\test\java\utilities\ExtentReportManager.java
