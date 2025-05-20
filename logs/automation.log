@@ -1466,3 +1466,23 @@
 08:48:58.139 [main] INFO  testCases.TC001_AccountRegistrationTest - *********Finished TC001_AccountRegistrationTest**********
 08:49:01.516 [main] INFO  testCases.TC002_LoginTest - *********Starting TC002_LoginTest**********
 08:49:02.129 [main] INFO  testCases.TC002_LoginTest - *********Clicked on Login link**********
+08:52:02.851 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Auto_Practice\Automation_Project\OpenCartV001\testng.xml"
+08:52:06.792 [main] INFO  testCases.TC001_AccountRegistrationTest - *********Starting TC001_AccountRegistrationTest**********
+08:52:07.608 [main] INFO  testCases.TC001_AccountRegistrationTest - *********Clicked on Register link**********
+08:52:07.613 [main] INFO  testCases.TC001_AccountRegistrationTest - *********Providing customer details**********
+08:52:08.724 [main] INFO  testCases.TC001_AccountRegistrationTest - *********Clicked on Continue button**********
+08:52:08.724 [main] INFO  testCases.TC001_AccountRegistrationTest - *********Verifying account registration**********
+08:52:08.829 [main] INFO  testCases.TC001_AccountRegistrationTest - *********Account registration successful**********
+08:52:09.305 [main] INFO  testCases.TC001_AccountRegistrationTest - *********Finished TC001_AccountRegistrationTest**********
+08:52:12.408 [main] INFO  testCases.TC002_LoginTest - *********Starting TC002_LoginTest**********
+08:52:12.994 [main] INFO  testCases.TC002_LoginTest - *********Clicked on Login link**********
+15:45:21.216 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\Auto_Practice\Automation_Project\OpenCartV001\testng.xml"
+15:45:30.379 [main] INFO  testCases.TC001_AccountRegistrationTest - *********Starting TC001_AccountRegistrationTest**********
+15:45:31.523 [main] INFO  testCases.TC001_AccountRegistrationTest - *********Clicked on Register link**********
+15:45:31.523 [main] INFO  testCases.TC001_AccountRegistrationTest - *********Providing customer details**********
+15:45:33.386 [main] INFO  testCases.TC001_AccountRegistrationTest - *********Clicked on Continue button**********
+15:45:33.386 [main] INFO  testCases.TC001_AccountRegistrationTest - *********Verifying account registration**********
+15:45:33.445 [main] INFO  testCases.TC001_AccountRegistrationTest - *********Account registration successful**********
+15:45:34.023 [main] INFO  testCases.TC001_AccountRegistrationTest - *********Finished TC001_AccountRegistrationTest**********
+15:45:38.204 [main] INFO  testCases.TC002_LoginTest - *********Starting TC002_LoginTest**********
+15:45:38.998 [main] INFO  testCases.TC002_LoginTest - *********Clicked on Login link**********
